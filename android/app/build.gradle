@@ -41,6 +41,24 @@ android {
         versionName flutterVersionName
     }
 
+    flavorDimensions "app"
+    productFlavors {
+
+        app1 {
+            dimension "app"
+            applicationId "com.silwek.pro.flutter.flutter_android_demo.app1"
+            versionCode 1
+            versionName "1.0"
+        }
+
+        app2 {
+            dimension "app"
+            applicationId "com.silwek.pro.flutter.flutter_android_demo.app2"
+            versionCode 1
+            versionName "1.0"
+        }
+    }
+
     buildTypes {
         release {
             // TODO: Add your own signing config for the release build.

@@ -9,6 +9,8 @@ Test Flutter framework with Android particularities :
 - ✅ Add an event to calendar : [add_to_calendar](https://pub.dev/packages/add_to_calendar)
 - ✅ Make a phone call : [url_launcher](https://pub.dev/packages/url_launcher)
 - ✅ Take a picture : [image_picker](https://pub.dev/packages/image_picker)
+- ✅ Take a picture : [image_picker](https://pub.dev/packages/image_picker)
+- ✅ Build flavor and differents navigation map : [Creating flavors of a Flutter app](https://cogitas.net/creating-flavors-of-a-flutter-app/)
 
 ## Getting Started
 
